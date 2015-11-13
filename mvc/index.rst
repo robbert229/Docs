@@ -14,7 +14,6 @@ ASP.NET MVC Documentation
     :titlesonly:
 
     overview
-    getting-started/index
     tutorials/index
     models/index
     views/index
